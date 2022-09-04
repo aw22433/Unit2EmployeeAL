@@ -1,1 +1,5 @@
+This is program to fulfil the optional extension activity in Unit 2 
+It allows one of 4 employees to book annual leave.
+It will store the annual leave records and also record the remaining leave for each employee
 
+No external libraries required to run.
